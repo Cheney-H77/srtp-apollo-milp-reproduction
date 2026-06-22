@@ -1,0 +1,16 @@
+dataset/
+pretrain/
+logs/
+
+*.pth
+*.pt
+*.pkl
+*.sol
+*.mps
+*.lp
+
+gurobi.lic
+.env
+.DS_Store
+__pycache__/
+*.pyc

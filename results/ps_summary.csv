@@ -1,0 +1,6 @@
+instance,ps_objective,ps_time_sec,ps_nodes
+mini_ca_test_000,565.1200284543,0.01,1.0
+mini_ca_test_001,546.9096225438,0.0,1.0
+mini_ca_test_002,508.2527103644,0.0,1.0
+mini_ca_test_003,506.1177514933,0.0,1.0
+Average,531.6000282139499,0.0025,1.0
